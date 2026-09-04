@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-dreainno.online-00C7B7?style=flat-square&logo=googlechrome&logoColor=white)](https://dreainno.online/)
+  [![Virtual Card](https://img.shields.io/badge/Virtual%20Card-dreainno.online-00C7B7?style=flat-square&logo=contactlesspayment&logoColor=white)](https://dreainno.online/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drea-inno-39314b39a)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@dreainno)
   [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/dreainno)
@@ -24,7 +24,7 @@
 
 I am a seasoned Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, Oracle-certified practices, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
 
-Explore my live work and projects at [**dreainno.online**](https://dreainno.online/).
+Connect with me or save my details via my virtual business card at [**dreainno.online**](https://dreainno.online/).
 
 ---
 
