@@ -119,12 +119,9 @@ Connect with me or save my details via my virtual business card at [**dreainno.o
 # 📊 GitHub Stats & Insights
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GamersStop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=GamersStop&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamersStop&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="135" src="https://streak-stats.demolab.com/?user=GamersStop&theme=tokyonight&hide_border=true" alt="GamersStop GitHub Streak" />
+  <img height="135" src="https://github-readme-stats-fast.vercel.app/api?username=GamersStop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GamersStop GitHub Stats" />
+  <img height="135" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GamersStop&layout=compact&theme=tokyonight&hide_border=true" alt="GamersStop Top Languages" />
 </div>
 
 ---
