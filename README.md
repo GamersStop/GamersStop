@@ -25,7 +25,7 @@
 
 I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
 
-Connect with me or save my details via my virtual business card at [**dreainno.online**](https://dreainno.online/).
+💼 **Open for Opportunities:** I am actively available for **full-time engineering roles, consulting, and freelance software projects**. Feel free to reach out via [email](mailto:dreainno@gmail.com) or connect through my virtual card at [**dreainno.online**](https://dreainno.online/).
 
 ---
 
