@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Mayuresh%20Pandit&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Enterprise%20ERP%20%7C%20Full-Stack%20%7C%20Open-Source%20Builder&descSize=17&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Mayuresh%20Pandit&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Oracle%20Certified%20%7C%20Enterprise%20ERP%20%7C%20Full-Stack%20Builder&descSize=17&descAlignY=68" width="100%" />
 </div>
 
 <div align="center">
@@ -9,6 +9,7 @@
     </a>
   </p>
 
+  [![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-C74634?style=flat-square&logo=oracle&logoColor=white)](#-tech-stack)
   [![Virtual Card](https://img.shields.io/badge/Virtual%20Card-dreainno.online-00C7B7?style=flat-square&logo=contactlesspayment&logoColor=white)](https://dreainno.online/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drea-inno-39314b39a)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@dreainno)
@@ -22,7 +23,7 @@
 
 # 💫 About Me
 
-I am a seasoned Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, Oracle-certified practices, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
+I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
 
 Connect with me or save my details via my virtual business card at [**dreainno.online**](https://dreainno.online/).
 
@@ -35,7 +36,9 @@ Connect with me or save my details via my virtual business card at [**dreainno.o
   * [**Affiscope**](https://affiscope.website/) — Affiliate inspection, link debugging, and analysis utility.
 
 * **WordPress Ecosystem:**
-  * [**AffiStyle**](https://affistyle.shop/) — Specialized WordPress plugin for affiliate styling and site enhancement (*currently rolling out active feature & performance updates*).
+  * **AffiStyle** — Specialized WordPress plugin for affiliate styling and site enhancement (*currently rolling out active feature & performance updates*).
+    * 🌐 **Product Website:** [affistyle.shop](https://affistyle.shop/)
+    * 🔌 **WordPress.org Directory:** [wordpress.org/plugins/affistyle](https://wordpress.org/plugins/affistyle/)
 
 * **Open-Source Packages (npm & GitHub):**
   * [**universal-form-validator**](https://github.com/GamersStop/universal-form-validator) — Zero-dependency, extensible validation engine for enterprise forms.
@@ -50,7 +53,7 @@ Connect with me or save my details via my virtual business card at [**dreainno.o
 ### 🎯 What's Next
 
 * Actively preparing to build and compete in the **Google AI Builder Cup** and upcoming **DEV.to hackathons**.
-* Continually refining core features for the [**AffiStyle**](https://affistyle.shop/) plugin while expanding open-source developer tooling and AI security integrations.
+* Continually refining core features and releasing updates for [**AffiStyle**](https://affistyle.shop/) on both the official site and the [WordPress plugin repo](https://wordpress.org/plugins/affistyle/).
 
 ---
 
@@ -60,8 +63,8 @@ Connect with me or save my details via my virtual business card at [**dreainno.o
 <summary><b>Enterprise & ERP</b></summary>
 <br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20PeopleSoft-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Certified-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20PeopleSoft-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/OAC%20%2F%20OBIEE%20Reporting-E01E5A?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 </details>
