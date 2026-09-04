@@ -9,6 +9,7 @@
     </a>
   </p>
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-dreainno.online-00C7B7?style=flat-square&logo=googlechrome&logoColor=white)](https://dreainno.online/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drea-inno-39314b39a)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@dreainno)
   [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/dreainno)
@@ -23,16 +24,18 @@
 
 I am a seasoned Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, Oracle-certified practices, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
 
+Explore my live work and projects at [**dreainno.online**](https://dreainno.online/).
+
 ---
 
 ### 🛠️ Shipped Tools & Open-Source Highlights
 
 * **Browser Extensions:**
   * **Fogo** — Productivity extension designed to streamline browsing workflows.
-  * **Affiscope** — Affiliate inspection, link debugging, and analysis utility.
+  * [**Affiscope**](https://affiscope.website/) — Affiliate inspection, link debugging, and analysis utility.
 
 * **WordPress Ecosystem:**
-  * **AffiStyle** — Specialized WordPress plugin for affiliate styling and site enhancement (*currently rolling out active feature & performance updates*).
+  * [**AffiStyle**](https://affistyle.shop/) — Specialized WordPress plugin for affiliate styling and site enhancement (*currently rolling out active feature & performance updates*).
 
 * **Open-Source Packages (npm & GitHub):**
   * [**universal-form-validator**](https://github.com/GamersStop/universal-form-validator) — Zero-dependency, extensible validation engine for enterprise forms.
@@ -47,7 +50,7 @@ I am a seasoned Software and Enterprise ERP Developer with over 8 years of exper
 ### 🎯 What's Next
 
 * Actively preparing to build and compete in the **Google AI Builder Cup** and upcoming **DEV.to hackathons**.
-* Continually refining core features for the **AffiStyle** plugin while expanding open-source developer tooling and AI security integrations.
+* Continually refining core features for the [**AffiStyle**](https://affistyle.shop/) plugin while expanding open-source developer tooling and AI security integrations.
 
 ---
 
