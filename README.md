@@ -33,8 +33,10 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
 
 * **Browser Extensions:**
   * **Fogo** — Productivity extension designed to streamline browsing workflows.
-  * [**Affiscope**](https://affiscope.website/) — Affiliate inspection, link debugging, and analysis utility.
-
+  * **Affiscope** — Affiliate inspection, link debugging, and analysis utility.
+    * 🌐 **Product Website:** [affiscope.website](https://affiscope.website/)
+    * 🧩 **Chrome Web Store:** [Affiscope on Chrome Web Store](https://chromewebstore.google.com/detail/affiscope-affiliate-audit/lfbehngfklnffplfdooainfggojpcmdh)
+      
 * **WordPress Ecosystem:**
   * **AffiStyle** — Specialized WordPress plugin for affiliate styling and site enhancement (*currently rolling out active feature & performance updates*).
     * 🌐 **Product Website:** [affistyle.shop](https://affistyle.shop/)
