@@ -49,7 +49,7 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
 * **Civic & Social Impact Platforms:**
   * [**Paw ID Care**](https://github.com/GamersStop/paw-id-care) — Multimodal civic-tech rescue and registration platform developed for the DEV.to Hackathon challenge.
   * [**Farmers Rural Economic Ecosystem Platform**](https://github.com/GamersStop/farmers-rural-economic-ecosystem) — Digital infrastructure engineered to empower rural producers and farmers with direct market access.
-
+  * [**KindLink — Autonomous Generosity Grid**](https://github.com/GamersStop/KINDLINK-The-Autonomous-Generosity-Grid) -Sharing its primary functionality (e.g., DeFi micro-lending, gaming infrastructure, NFT utility, or on-chain escrow) will let me craft a sharp, punchy one-liner tailored directly to your submission.
 ---
 
 ### 🎯 What's Next
@@ -57,6 +57,21 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
 * Actively preparing to build and compete in the **Google AI Builder Cup** and upcoming **DEV.to hackathons**.
 * Continually refining core features and releasing updates for [**AffiStyle**](https://affistyle.shop/) on both the official site and the [WordPress plugin repo](https://wordpress.org/plugins/affistyle/).
 
+### 🏆 Hackathons & Web3 Participation
+
+#### Sr. 1 | Solana Crypto World's Fair
+
+<div align="center">
+  <img src="./crypto-worlds-fair-DarkVillain.png" alt="Crypto World's Fair - Solana Hackathon" width="650" style="border-radius: 12px; border: 1px solid #30363d;" />
+</div>
+
+<br/>
+
+* **Sr. No.:** 1
+* **Hackathon:** Solana Crypto World's Largest Fair (Radar / Global Track)
+* **Status:** Participant / Builder
+* **Focus:** Unlock instant stablecoin liquidity against trade invoices with cryptographic proof of uniqueness and validity—without exposing client, pricing, or commercial data.
+  
 ---
 
 # 💻 Tech Stack
