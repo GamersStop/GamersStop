@@ -10,7 +10,7 @@
   </p>
 
   [![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-C74634?style=flat-square&logo=oracle&logoColor=white)](#-tech-stack)
-  [![Virtual Card](https://img.shields.io/badge/Virtual%20Card-dreainno.online-00C7B7?style=flat-square&logo=contactlesspayment&logoColor=white)](https://dreainno.online/)
+  [![Virtual Card](https://img.shields.io/badge/Virtual%20Card-dreainno.website-00C7B7?style=flat-square&logo=contactlesspayment&logoColor=white)](https://dreainno.website/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drea-inno-39314b39a)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@dreainno)
   [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/dreainno)
@@ -25,7 +25,7 @@
 
 I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 years of experience architecting and shipping scalable systems across PHP, Java, Python, and Oracle PeopleSoft. My expertise covers core enterprise implementations, relational database architecture with MySQL, and enterprise reporting via OAC (Oracle Analytics Cloud) and OBIEE, complemented by active open-source product engineering.
 
-💼 **Open for Opportunities:** I am actively available for **full-time engineering roles, consulting, and freelance software projects**. Feel free to reach out via [email](mailto:dreainno@gmail.com) or connect through my virtual card at [**dreainno.online**](https://dreainno.online/).
+💼 **Open for Opportunities:** I am actively available for **full-time engineering roles, consulting, and freelance software projects**. Feel free to reach out via [email](mailto:dreainno@gmail.com) or connect through my virtual card at [**dreainno.website**](https://dreainno.website/).
 
 ---
 
