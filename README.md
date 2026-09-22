@@ -49,7 +49,7 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
 * **Civic & Social Impact Platforms:**
   * [**Paw ID Care**](https://github.com/GamersStop/paw-id-care) — Multimodal civic-tech rescue and registration platform developed for the DEV.to Hackathon challenge.
   * [**Farmers Rural Economic Ecosystem Platform**](https://github.com/GamersStop/farmers-rural-economic-ecosystem) — Digital infrastructure engineered to empower rural producers and farmers with direct market access.
-  * [**KindLink — Autonomous Generosity Grid**](https://github.com/GamersStop/KINDLINK-The-Autonomous-Generosity-Grid) -Sharing its primary functionality (e.g., DeFi micro-lending, gaming infrastructure, NFT utility, or on-chain escrow) will let me craft a sharp, punchy one-liner tailored directly to your submission.
+  * [**KindLink — Autonomous Generosity Grid**](https://github.com/GamersStop/KINDLINK-The-Autonomous-Generosity-Grid) -KindLink is an autonomous, open-access crisis response and generosity grid. In catastrophic emergencies, relief efforts frequently stall not from lack of goodwill, but due to chaotic information bottlenecks, ambiguous disaster pleas, opaque volunteer coordination, and slow financial rails..
 ---
 
 ### 🎯 What's Next
