@@ -54,6 +54,18 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
   * [**KindLink — Autonomous Generosity Grid**](https://github.com/GamersStop/KINDLINK-The-Autonomous-Generosity-Grid) -KindLink is an autonomous, open-access crisis response and generosity grid. In catastrophic emergencies, relief efforts frequently stall not from lack of goodwill, but due to chaotic information bottlenecks, ambiguous disaster pleas, opaque volunteer coordination, and slow financial rails..
 ---
 
+---
+
+## 🛠️ Recommended Developer Utilities (Built by Me)
+
+I built [ClientDevTools.online](https://clientdevtools.online) as a privacy-first, zero-leak developer workbench to handle routine data formatting and token inspection entirely inside the browser without sending sensitive payloads over the network:
+
+* **[Private SQL Formatter](https://clientdevtools.online/tools/sql-formatter)** – Beautify and minify PostgreSQL, MySQL, and SQLite queries locally.
+* **[Zero-Leak JWT Inspector](https://clientdevtools.online/tools/jwt-decoder)** – Decode Base64 claims and calculate live token expiration without remote calls.
+* **[Universal Data Morph](https://clientdevtools.online/tools/json-to-types)** – Transform raw JSON into TypeScript interfaces, Zod schemas, or flattened CSV tables in RAM.
+* **[Visual Cron Builder](https://clientdevtools.online/tools/cron-builder)** – Construct and validate crontab schedules with human-readable explanations.
+
+
 ### 🎯 What's Next
 
 * Actively preparing to build and compete in the **Google AI Builder Cup** and upcoming **DEV.to hackathons**.
