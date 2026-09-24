@@ -33,6 +33,8 @@ I am an **Oracle Certified** Software and Enterprise ERP Developer with over 8 y
 
 * **Browser Extensions:**
   * **Fogo** — Productivity extension designed to streamline browsing workflows.
+    * 🌐 **Product Website:** [https://getfogo.website](https://getfogo.website)
+    * 🧩 **Chrome Web Store:** [Fogo on Chrome Web Store](https://chromewebstore.google.com/detail/fogo-%E2%80%94-calm-productivity/obbgfeoggkonopplfhageihbcaigcplk)
   * **Affiscope** — Affiliate inspection, link debugging, and analysis utility.
     * 🌐 **Product Website:** [affiscope.website](https://affiscope.website/)
     * 🧩 **Chrome Web Store:** [Affiscope on Chrome Web Store](https://chromewebstore.google.com/detail/affiscope-affiliate-audit/lfbehngfklnffplfdooainfggojpcmdh)
